@@ -14,8 +14,8 @@ Report includes written text summaries and graphics of the following:
 - Can you estimate initial value(s) for the metric based on the current data
 ### Final summary including recommendations that the business should undertake
 
-### Link to final analytics report here :
+### Link to the analysis report here :
 https://www.datacamp.com/datalab/w/052c902a-1114-42f6-a49f-19a2c9c91adc/edit
 
-### Link to sales rep presentation here :
+### Link to sales rep presentation deck here :
 https://www.canva.com/design/DAGUANnk3m0/m1IUhHhHonEfFOcEw_k5lQ/view?utm_content=DAGUANnk3m0&utm_campaign=designshare&utm_medium=link&utm_source=editor
